@@ -24,7 +24,7 @@ A production-grade job queue system with worker processes, retry mechanisms with
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/UniqueBlood7899/queuectl
 cd queuectl
 ```
 
