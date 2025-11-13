@@ -279,10 +279,6 @@ queuectl worker start
 queuectl dlq list
 ```
 
-## Demo Video
-
-[Link to demo video - Upload to Google Drive and add link here]
-
 ## Assumptions & Trade-offs
 
 ### Assumptions
